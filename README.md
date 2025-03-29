@@ -77,7 +77,6 @@ This repository contains a set of Python scripts designed to automate the proces
 * `extract.py`: Extracts subtitle tracks from MKV files.
 * `translate.py`: Translates SRT files using Ollama.
 * `subtitle.py`: Merges translated SRT files back into MKV files.
-* `requirements.txt`: Lists the Python packages required for the scripts.
 
 ## Customization
 
